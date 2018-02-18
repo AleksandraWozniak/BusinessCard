@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="pizza">Pizzeria Pizza Hut </string>
+    <string name="pizza1">An American restaurant chain known for its Italian-American cuisine menu including pizza, pasta, salads and desserts</string>
+    <string name="address">Address: Al.K.E.N. 85, 02-777 Warsaw</string>
+    <string name="phone">Phone: +48 22 536 36 36</string>
+    <string name="hours">Opening hours: 11:00-23:00</string>
+    <string name="www">Webpage: https://pizzahut.pl/</string>
+    <string name="email">E-mail: mojapizzahut@amrest.eu</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
